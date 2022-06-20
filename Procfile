@@ -1,1 +1,1 @@
-web: gunicorn hfiequizapp.wsgi
+web: gunicorn hfiequiz.wsgi

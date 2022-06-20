@@ -4,7 +4,7 @@ import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'n+qfzy!zoth6))00$8mn^yrly+7rfq0wygs1kpn7$xh87*as97'
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hfiequizapp.herokuapp.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',

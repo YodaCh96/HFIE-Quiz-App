@@ -26,7 +26,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'QuizApp.urls'
+ROOT_URLCONF = 'hfiequizapp.urls'
 
 TEMPLATES = [
     {

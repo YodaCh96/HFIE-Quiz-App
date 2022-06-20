@@ -1,6 +1,6 @@
 <p align="center">
     <a href="ec2-3-140-189-226.us-east-2.compute.amazonaws.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=HFIE Quiz&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
-    <h2 align="center">👉 <a href="hfiequiz.herokuapp.com" >WebSite👈</a></h2>
+    <h2 align="center">👉 <a href="https://hfiequiz.herokuapp.com" >WebSite 👈</a></h2>
     <h2 align="center">👉 A HFIE Quiz in Django 👈</h2>
 </p>
 

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %} HFIE Quiz - Resultate löschen {% endblock %}
+
+{% block body %}
+<div class="container mt-4">
+    <h4>Sind Sie sicher, dass Sie den {{marks.user}} löschen wollen, der im {{marks.quiz}} die Note {{marks.score}} hat?</h4>
+    <br>
+    <form action="/delete_result/{{marks.id}}/" method="POST">
+            
+        {% csrf_token %}
+        <a class="btn btn-warning" href="/results/">Abbrechen</a>
+    
+        <input class="btn btn-danger" type="submit" value="Löschen">
+    </form>
+</div>
+
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %} HFIE Quiz - Options hinzufügen {% endblock %}
+
+{% block body %}
+<div class="container mt-4">
+    <form action="/add_options/{{question.id}}/" method="POST"> {% csrf_token %}
+        {{ formset.as_p }}
+        <button type="submit" class="btn btn-info">Option hinzufügen</button>
+    </form>
+</div>
+{% endblock %}
+{% block js %}
+<script>
+    {% if alert %}
+alert("Frage wurde erfolgreich hinzugefügt!!!");
+document.location = '/add_question/'
+{% endif %}
+</script>
+{% endblock %}
+

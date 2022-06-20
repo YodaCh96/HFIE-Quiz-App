@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="ec2-3-140-189-226.us-east-2.compute.amazonaws.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=HFIE Quiz App&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
-    <h2 align="center">👉 A HFIE Quiz App in Django 👈</h2>
+    <a href="ec2-3-140-189-226.us-east-2.compute.amazonaws.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=HFIE Quiz&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
+    <h2 align="center">👉 A HFIE Quiz in Django 👈</h2>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/language-Django-blue?style=for-the-badge">  
 </p>
 
-## 📌 HFIE Quiz App
+## 📌 HFIE Quiz
 
 An Application where students have to only register for attempting quizzes and can also view their scores.
 

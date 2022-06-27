@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/language-Django-blue?style=for-the-badge">  
 </p>
 
-## 📌 Ausgangslage
+## Ausgangslage
 
 An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mithilfe eines modularen Aufbaus, sowie personalisiertem Lernen, wird den Studenten ermöglicht, sich selbstständig weiterzuentwickeln. 
 
@@ -34,3 +34,14 @@ In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine QUIZ-Applika
 
 - Erstellung einer Applikation mit Django
 - Hosting eines Django-Projekts auf Heroku
+
+## Design Pattern
+
+Die HFIE-Quiz-Applikation ist nach dem Model-Template-View (MTV) aufgebaut. MTV orientiert sich am bekannten Model-View-Controller (MVC).
+
+## User Stories
+
+- Als Lehrer möchte ich ein CRUD-Interface haben, mit dem sich die HFIE Applikation ohne Aufwand pflegen lässt.
+- Als Lehrer möchte ich neue Quizze zu erstellen.
+- Als Lehrer möchte ich neue Fragen hinzufügen.
+- Als Lehrer möchte ich die Möglichkeit haben, die verbleibende Zeit eines Quiz selber zu definieren.

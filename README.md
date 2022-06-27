@@ -17,26 +17,20 @@ An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mit
 
 In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine QUIZ-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
 
-### Mittel und Methoden
-
-#### Software
+### Software
 
 - Github
 - Heroku
 - Django
 
-#### Hardware
+### Hardware
 
 - Persönliche Computer
 
-#### Methode
-
-- Die Projektarbeit wird mittels der Arbeitsmethode IPERKA durchgeführt. 
-
-#### Vorkenntnisse 
+### Vorkenntnisse 
 - Grundwissen in Python, HTML, CSS und JS
 
-#### Neue Lerninhalte
+### Neue Lerninhalte
 
 - Erstellung einer Applikation mit Django
 - Hosting eines Django-Projekts auf Heroku

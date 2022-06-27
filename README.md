@@ -1,7 +1,7 @@
 <p align="center">
     <a href="ec2-3-140-189-226.us-east-2.compute.amazonaws.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=HFIE Quiz&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
-    <h2 align="center">👉 <a href="https://hfiequiz.herokuapp.com" >WebSite 👈</a></h2>
-    <h2 align="center">👉 A HFIE Quiz in Django 👈</h2>
+    <h2 align="center">👉 <a href="https://hfiequiz.herokuapp.com" >WebSeite 👈</a></h2>
+    <h2 align="center">👉 Eine HFIE Quiz Applikation in Django 👈</h2>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mithilfe eines modularen Aufbaus, sowie personalisiertem Lernen, wird den Studenten ermöglicht, sich selbstständig weiterzuentwickeln. 
 
-In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine QUIZ-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
+In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine Quiz-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
 
 ## Projektidee
 

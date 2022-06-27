@@ -17,11 +17,17 @@ An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mit
 
 In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine QUIZ-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
 
-### Software
+## Projektidee
 
-- Github
-- Heroku
-- Django
+Nach erfolgreicher Anmeldung bzw. Registrierung, kann der Benutzer die verschiedene Quizze auswählen und testen.
+
+## Techniken, Frameworks und Tools
+
+- Programmiersprachen: Python, SQL
+- Framework: Django
+- Datenbank: SQLite / MongoDB
+- Server: Heroku
+- Tools: Github
 
 ### Hardware
 

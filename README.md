@@ -15,7 +15,7 @@
 
 An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mithilfe eines modularen Aufbaus, sowie personalisiertem Lernen, wird den Studenten ermöglicht, sich selbstständig weiterzuentwickeln. 
 
-In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine Quiz-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
+In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine Quiz-Applikation angezeigt wird und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
 
 ## Projektidee
 

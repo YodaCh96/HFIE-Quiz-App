@@ -11,69 +11,32 @@
     <img src="https://img.shields.io/badge/language-Django-blue?style=for-the-badge">  
 </p>
 
-## 📌 HFIE Quiz
+## 📌 Ausgangslage
 
-An Application where students have to only register for attempting quizzes and can also view their scores.
+An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mithilfe eines modularen Aufbaus, sowie personalisiertem Lernen, wird den Studenten ermöglicht, sich selbstständig weiterzuentwickeln. 
 
-## Tech Stack
+In diesem Projekt wird eine Projektarbeit dokumentiert, welche eine QUIZ-Applikation anzeigt und einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können.
 
-- **Frontend:** HTML/CSS
-- **Backend:** Django
+### Mittel und Methoden
 
-## Quick Start
+#### Software
 
-- Fork and Clone the repo:
+- Github
+- Heroku
+- Django
 
-```
-git clone https://github.com/YodaCh96/HFIE-Quiz-App.git
-```
+#### Hardware
 
-- Create a branch:
+- Persönliche Computer
 
-```
-git checkout -b <branch-name>
-```
+#### Methode
 
-- Create virtual environment:
+- Die Projektarbeit wird mittels der Arbeitsmethode IPERKA durchgeführt. 
 
-```
-python -m venv env
-env\Scripts\activate
-```
-- Install dependencies using
+#### Vorkenntnisse 
+- Grundwissen in Python, HTML, CSS und JS
 
-```
-pip install -r requirements.txt
-```
+#### Neue Lerninhalte
 
-- Make migrations using
-
-```
-python manage.py makemigrations
-```
-
-- Migrate Database
-
-```
-python manage.py migrate
-```
-
-- Create a superuser
-
-```
-python manage.py createsuperuser
-```
-
-- Run server using
-
-```
-python manage.py runserver
-```
-
-- Push Changes
-
-```
-git add .
-git commit -m "<your commit message>"
-git push --set-upstream origin <branch_name>
-```
+- Erstellung einer Applikation mit Django
+- Hosting eines Django-Projekts auf Heroku

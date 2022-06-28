@@ -47,7 +47,10 @@ Die HFIE-Quiz-Applikation ist nach dem Model-Template-View (MTV) aufgebaut. MTV 
 
 ## User Stories
 
-- Als Lehrer möchte ich ein CRUD-Interface haben, mit dem sich die HFIE Applikation ohne Aufwand pflegen lässt.
+Für das Projekt sind folgende User Stories definiert:
+
 - Als Lehrer möchte ich neue Quizze zu erstellen.
 - Als Lehrer möchte ich neue Fragen hinzufügen.
 - Als Lehrer möchte ich die Möglichkeit haben, die verbleibende Zeit eines Quiz selber zu definieren.
+- Als Studierender möchte ich mich für Quizze anmelden können.
+- Als angemeldeter Benutzer möchte ich mich auch abmelden können.

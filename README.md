@@ -41,6 +41,10 @@ In dieser Projektarbeit wird eine Quiz-Applikation entwickelt, wo einem Benutzer
 
 Die HFIE-Quiz-Applikation ist nach dem Model-Template-View (MTV) aufgebaut. MTV orientiert sich am bekannten Model-View-Controller (MVC). Ich entschied mich für dieses MTV Design Pattern, da ich mit Hilfe weniger Zeilen im Code in den Models eine Datenbankstruktur anlegen konnte. Django hat automatisch das SQL für die Erstellung der Tabellen in SQlite erzeugt und hat dann die entsprechenden Tabellen erstellt. Des Weiteren sind die Programmlogiken und statische Daten, bzw. Media-Dateien strikt voneinander getrennt und können zum Beispiel auch auf verschiedenen Servern (z.B. Heroku) liegen. Die Module werden in sogenannten Apps erstellt und sind komplett von der Logik der Hauptanwendung getrennt. All diese Dinge kann ich problemlos und auch individuell anpassen.
 
+## Component Diagram
+
+![Component Diagram](component_diagram.PNG)
+
 ## User Stories
 
 - Als Lehrer möchte ich ein CRUD-Interface haben, mit dem sich die HFIE Applikation ohne Aufwand pflegen lässt.

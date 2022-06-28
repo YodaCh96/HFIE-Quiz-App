@@ -25,14 +25,14 @@ In dieser Projektarbeit wird eine Quiz-Applikation entwickelt, wo einem Benutzer
 - Server: Heroku
 - Tools: Github
 
-### Hardware
+## Hardware
 
 - Persönliche Computer
 
-### Vorkenntnisse 
+## Vorkenntnisse 
 - Grundwissen in Python, HTML, CSS und JS
 
-### Neue Lerninhalte
+## Neue Lerninhalte
 
 - Erstellung einer Applikation mit Django
 - Hosting eines Django-Projekts auf Heroku
@@ -54,3 +54,9 @@ Für das Projekt sind folgende User Stories definiert:
 - Als Lehrer möchte ich die Möglichkeit haben, die verbleibende Zeit eines Quiz selber zu definieren.
 - Als Studierender möchte ich mich für Quizze anmelden können.
 - Als angemeldeter Benutzer möchte ich mich auch abmelden können.
+
+## Projektvorgehen
+
+Die Arbeit zielt auf eine spezifische Zielgruppe ab &rarr; Studenten von HFIE.
+
+Damit ich einen groben Überblick zu meiner Arbeit verschaffe, habe ich zu Beginn erstmals ein kurzes Brainstorming durchgeführt, um die einzelnen Komponenten definieren zu können. Für das Projekt musste vor allem für die HFIE-Applikation eine Informationsbeschaffung durchgeführt werden. Die Lösung wurde mithilfe des Django umgesetzt. Mein Ziel war, die HFIE-Quiz-Applikation in kürzerer Zeit vom Konzept bis zur Fertigstellung zu bringen. Aus diesem Grund habe ich als Framework Django gewhählt. Django hat die Entwicklung dieser komplexer und datenbankgestützter Applikation erleichtert. Die Verwaltungsoberfläche von Django hat mir geholfen, Dinge zu erstellen, zu aktualisieren, zu lesen und zu löschen.

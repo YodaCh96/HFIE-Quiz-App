@@ -15,13 +15,13 @@
 
 An der HFIE in Zug werden Studenten optimal auf die Arbeitswelt vorbereitet. Mithilfe eines modularen Aufbaus, sowie personalisiertem Lernen, wird den Studenten ermöglicht, sich selbstständig weiterzuentwickeln. 
 
-In dieser Projektarbeit wird eine Quiz-Applikation entwickelt, wo einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können. Nach erfolgreicher Anmeldung bzw. Registrierung, kann der Benutzer die verschiedene Quizze auswählen und testen.
+In dieser Projektarbeit wird eine Quiz-Applikation entwickelt, wo einem Benutzer die Möglichkeit gibt, sein Wissen testen und Fragen von der HFIE-Modulen beantworten zu können. Sobald der Benutzer die Quiz-Applikation startet, werden die verschiedenen Quiz angezeigt. Nach erfolgreicher Anmeldung bzw. Registrierung, kann der Benutzer die verschiedene Quizze auswählen und testen.
 
 ## Techniken, Frameworks und Tools
 
 - Programmiersprachen: Python, SQL
 - Framework: Django
-- Datenbank: SQLite / MongoDB
+- Datenbank: SQLite
 - Server: Heroku
 - Tools: Github
 
